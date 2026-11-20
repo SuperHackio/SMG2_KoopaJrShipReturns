@@ -1,0 +1,19 @@
+{
+  "Name": "Bowser Jr.'s Airship'",
+  "Author": "Super Hackio",
+  "Description": "TODO",
+  "RequiredAPIs": [ "CannonShell_API" ],
+  "SupportedGames": [ "SB4" ],
+
+  "ModuleData": [
+    {
+      "NameObjFactory": [
+        {
+          "Name": "KoopaJrShip",
+          "Function": "createExtActor<KoopaJrShip>",
+          "Include": "Game/Enemy/KoopaJrShip.h"
+        }
+      ]
+    }
+  ]
+}
