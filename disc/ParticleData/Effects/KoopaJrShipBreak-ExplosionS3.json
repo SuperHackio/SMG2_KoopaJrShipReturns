@@ -1,0 +1,29 @@
+[
+    {
+        "GroupName": "KoopaJrShipBreak",
+        "AnimName": [
+            "Break"
+        ],
+        "ContinueAnimEnd": true,
+        "UniqueName": "ExplosionS3",
+        "EffectName": [
+            "Explosion"
+        ],
+        "JointName": "FirePoint2",
+        "OffsetX": 0.0,
+        "OffsetY": 0.0,
+        "OffsetZ": 0.0,
+        "StartFrame": 287,
+        "ScaleValue": 1.5,
+        "RateValue": 1.0,
+        "LightAffectValue": 0.0,
+        "DrawOrder": "AFTER_IMAGE_EFFECT",
+        "Affect": [
+            "T",
+            "R"
+        ],
+        "Follow": [
+            "T"
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "GroupName": "KoopaJrShipPod",
+        "AnimName": [
+            "Escape"
+        ],
+        "UniqueName": "Escape",
+        "EffectName": [
+            "SmokeCircleL"
+        ],
+        "JointName": "KoopaJrShipPod",
+        "OffsetX": 0.0,
+        "OffsetY": 50.0,
+        "OffsetZ": 0.0,
+        "StartFrame": 35,
+        "ScaleValue": 0.85,
+        "RateValue": 1.0,
+        "LightAffectValue": 0.0,
+        "DrawOrder": "3D",
+        "Affect": [
+            "T",
+            "R"
+        ],
+        "Follow": [
+            "T"
+        ]
+    }
+]

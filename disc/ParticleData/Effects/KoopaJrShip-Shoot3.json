@@ -1,0 +1,29 @@
+[
+    {
+        "GroupName": "KoopaJrShip",
+        "AnimName": [
+            "DemoKoopaBattleStairsVs3Start"
+        ],
+        "UniqueName": "Shoot3",
+        "EffectName": [
+            "KoopaJrShipCannonShoot"
+        ],
+        "JointName": "FirePoint2",
+        "OffsetX": 0.0,
+        "OffsetY": 0.0,
+        "OffsetZ": 0.0,
+        "StartFrame": 170,
+        "ScaleValue": 1.0,
+        "RateValue": 1.0,
+        "LightAffectValue": 0.0,
+        "DrawOrder": "3D",
+        "Affect": [
+            "T",
+            "R"
+        ],
+        "Follow": [
+            "T",
+            "R"
+        ]
+    }
+]

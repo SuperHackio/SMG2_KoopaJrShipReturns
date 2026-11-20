@@ -1,0 +1,36 @@
+[
+    {
+        "GroupName": "KoopaJrShipBreak",
+        "AnimName": [
+            "Break"
+        ],
+        "ContinueAnimEnd": true,
+        "UniqueName": "ExplosionS4",
+        "EffectName": [
+            "KoopaJrShipHeadCannonBreak00",
+            "KoopaJrShipHeadCannonBreak01",
+            "Explosion00",
+            "Explosion01",
+            "Explosion02",
+            "Explosion03",
+            "Explosion04",
+            "Explosion05"
+        ],
+        "JointName": "FirePoint3",
+        "OffsetX": 0.0,
+        "OffsetY": -68.0,
+        "OffsetZ": -220.0,
+        "StartFrame": 287,
+        "ScaleValue": 1.5,
+        "RateValue": 1.0,
+        "LightAffectValue": 0.0,
+        "DrawOrder": "AFTER_IMAGE_EFFECT",
+        "Affect": [
+            "T",
+            "R"
+        ],
+        "Follow": [
+            "T"
+        ]
+    }
+]
